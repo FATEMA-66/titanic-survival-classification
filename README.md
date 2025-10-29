@@ -19,7 +19,8 @@ A machine learning project predicting survival of Titanic passengers based on fe
 ## How to Run
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Run `titanic_classification.ipynb`
+3. Run `Building a Classification Model.ipynb
+`
 
 ## Results / Insights
 - Accuracy score: XX%
